@@ -1,0 +1,139 @@
+{
+    "wrdo": [
+        {
+            "name": "Hand Sanitizer",
+            "health_score": 80,
+            "calories": 0,
+            "protein": 0,
+            "carbs": 0,
+            "fats": 0,
+            "ingredients": [
+                "Alcohol",
+                "Water",
+                "Glycerin",
+                "Fragrance"
+            ],
+            "health_summary": "Hand sanitizer is effective at killing germs and bacteria on the skin, helping to prevent the spread of infections. It is a convenient alternative to hand washing with soap and water, especially when those resources are not available. However, it is important to note that hand sanitizer is not effective against all types of germs, such as norovirus, and it does not remove dirt or grime. Frequent use of hand sanitizer can also dry out the skin, so it is important to moisturize regularly.",
+            "short_report": "Hand sanitizer is a convenient way to kill germs on your hands, but it's not a substitute for washing with soap and water.",
+            "timestamp": "2026-01-22 05:09"
+        },
+        {
+            "name": "Nasal Spray",
+            "health_score": 10,
+            "calories": 0,
+            "protein": 0,
+            "carbs": 0,
+            "fats": 0,
+            "ingredients": [
+                "Saline solution",
+                "Preservatives (if any)"
+            ],
+            "health_summary": "Nasal spray is primarily used for relieving nasal congestion and dryness. It typically contains a saline solution and may include preservatives. It has minimal nutritional value and is not a significant source of calories, protein, carbs, or fats.",
+            "short_report": "Nasal spray provides temporary relief from nasal congestion and dryness but offers no nutritional benefits.",
+            "timestamp": "2026-01-22 05:09"
+        },
+        {
+            "is_food": false,
+            "name": "Wonder Mist Air Freshener",
+            "health_score": 0,
+            "calories": 0,
+            "protein": null,
+            "carbs": null,
+            "fats": null,
+            "ingredients": [],
+            "health_summary": "This is an air freshener and not intended for consumption.",
+            "short_report": "Consuming this will not freshen your breath, but might require a trip to the hospital.",
+            "timestamp": "2026-01-22 06:23"
+        }
+    ],
+    "duelistinstalocker": [
+        {
+            "name": "Tiger Biscuits",
+            "health_score": 30,
+            "calories": 150,
+            "protein": 2,
+            "carbs": 20,
+            "fats": 7,
+            "ingredients": [
+                "Wheat flour",
+                "Sugar",
+                "Vegetable oil",
+                "Milk solids",
+                "Raising agents",
+                "Salt",
+                "Emulsifiers",
+                "Flavors"
+            ],
+            "health_summary": "Tiger biscuits are a processed snack food that is high in sugar, fat, and calories, and low in essential nutrients. Regular consumption may contribute to weight gain and other health issues.",
+            "short_report": "Tiger biscuits are a processed snack with high sugar and fat content, offering limited nutritional value.",
+            "timestamp": "2026-01-22 05:19"
+        }
+    ],
+    "Guest": [
+        {
+            "is_food": false,
+            "name": "Not Food",
+            "health_score": 0,
+            "calories": 0,
+            "protein": null,
+            "carbs": null,
+            "fats": null,
+            "ingredients": [],
+            "health_summary": "Not applicable.",
+            "short_report": "This image doesn't contain any food, so I can't provide a health analysis.",
+            "timestamp": "2026-01-22 06:00"
+        },
+        {
+            "is_food": false,
+            "name": "Nasal Spray",
+            "health_score": 0,
+            "calories": 0,
+            "protein": null,
+            "carbs": null,
+            "fats": null,
+            "ingredients": [],
+            "health_summary": "This is a nasal spray, not a food item, and is intended for medicinal purposes.",
+            "short_report": "This is not food, so don't try to eat it!",
+            "timestamp": "2026-01-22 06:01"
+        },
+        {
+            "is_food": false,
+            "name": "Not a food item",
+            "health_score": 0,
+            "calories": 0,
+            "protein": null,
+            "carbs": null,
+            "fats": null,
+            "ingredients": [],
+            "health_summary": "This image does not contain any food items, so a health analysis is not applicable.",
+            "short_report": "This image is not edible, unless you're into eating pixels.",
+            "timestamp": "2026-01-22 06:02"
+        },
+        {
+            "is_food": false,
+            "name": "Not Food",
+            "health_score": 0,
+            "calories": 0,
+            "protein": null,
+            "carbs": null,
+            "fats": null,
+            "ingredients": [],
+            "health_summary": "This is not a food item and therefore has no nutritional value.",
+            "short_report": "This image features a person, not a food item, so it won't satisfy your hunger.",
+            "timestamp": "2026-01-22 06:40"
+        },
+        {
+            "is_food": false,
+            "name": "Motorcycle",
+            "health_score": 0,
+            "calories": 0,
+            "protein": null,
+            "carbs": null,
+            "fats": null,
+            "ingredients": [],
+            "health_summary": "Not a food item.",
+            "short_report": "Eating a motorcycle is not recommended, unless you're a Transformer.",
+            "timestamp": "2026-01-22 06:43"
+        }
+    ]
+}
