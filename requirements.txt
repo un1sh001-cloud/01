@@ -1,0 +1,7 @@
+openai>=1.0.0
+streamlit
+pillow
+requests
+streamlit
+openai
+Pillow
